@@ -26,7 +26,7 @@ Let me know if you’d like further customization or additional details!
 
 ---
 
-# SQL Practice: Music Database Queries
+# SQL: Music Database Queries
 
 This repository contains a collection of SQL queries centered around analyzing a music database. Each query answers specific, real-world questions related to customers, artists, tracks, and revenue, providing a hands-on approach to learning SQL.
 
@@ -51,7 +51,7 @@ This repository contains a collection of SQL queries centered around analyzing a
 
 ---
 
-# SQL Practice: Museums and Paintings Database
+# SQL: Museums and Paintings Database
 
 This repository contains a collection of SQL queries focused on analyzing data related to museums and paintings. Each query is designed to answer insightful questions, offering a practical approach to mastering SQL while exploring the art world.
 
